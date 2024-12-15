@@ -1,5 +1,5 @@
 # Suno Music Scraper
-A scraper for Suno.com that creates and downloads songs using AWS (Fargate & ECR for scraping and S3 for storing Chrome profiles) and Twilio for Suno authentication and Supabase for storing songs and updating records (e.g outstanding credits on all Suno accounts you use, song data). 
+A scraper for Suno.com that creates and downloads songs using AWS (Fargate & ECR for scraping and S3 for storing Chrome profiles), Twilio for Suno authentication and Supabase for storing songs and updating records (e.g outstanding credits on all Suno accounts you use, song data). 
 
 ## Prerequisites
 
